@@ -1,6 +1,6 @@
 ### Hi there! My name is Dwight Van Lancker 👋
 
-In 2019, I graduated as an Information Technology Engineer (ITE) as the University of Ghent, located in Belgium. I immediatly start working, as an information architect at the government agency 'Digitaal Vlaanderen'. At Digitaal Vlaanderen, I'm part of the team called Open Standards for Linked Organizations (OSLO), mainly focussing on creating (open) data standards and implementing them in datasets!
+In 2019, I graduated as an Information Technology Engineer (ITE) at the University of Ghent, located in Belgium. I immediately started working as an information architect at the government agency 'Digitaal Vlaanderen'. At Digitaal Vlaanderen, I'm part of the team called Open Standards for Linked Organizations (OSLO), mainly focussing on creating (open) data standards, implementing them in datasets and developing cool tools!
 
 Today, I am still working there :smiley:!
 

@@ -5,9 +5,9 @@ In 2019, I graduated as an Information Technology Engineer (ITE) at the Universi
 Today, I am still working there :smiley:!
 
 🔭 Currently, my main focus is on Linked Data Event Streams. Linked Data Event Streams are a new, really cool way to publish your datasets, giving users access to the full history and the latest changes of your dataset. More information on this topic can be found here:
-- A (specification)[https://w3id.org/ldes/specification] that tells you how to publish your dataset as a LDES
-- A (paper)[https://github.com/ddvlanck/Publishing-Base-Registries-As-LDES/blob/master/Linked-Data-Event-Streams.pdf] describing this vision
-- A free (course)[https://academy.europa.eu/courses/publishing-data-with-linked-data-event-streams-why-and-how?lang=sv] with videos explaining the what's and how's
+- A [specification](https://w3id.org/ldes/specification) that tells you how to publish your dataset as a LDES
+- A [paper](https://github.com/ddvlanck/Publishing-Base-Registries-As-LDES/blob/master/Linked-Data-Event-Streams.pdf) describing this vision
+- A free [course](https://academy.europa.eu/courses/publishing-data-with-linked-data-event-streams-why-and-how?lang=sv) with videos explaining the what's and how's
 
 Most of my time I spend developing tools for the LDES ecosystem or publishing a dataset as a LDES. (Ofcourse using the data standards developed by OSLO as much as possible. 😉)
 

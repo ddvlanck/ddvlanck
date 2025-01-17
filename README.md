@@ -2,7 +2,7 @@
 
 In 2019, I graduated as an Information Technology Engineer (ITE) at the University of Ghent, located in Belgium. I immediately started working as an information architect at the government agency 'Digitaal Vlaanderen'. At Digitaal Vlaanderen, I'm part of the team called Open Standards for Linked Organizations (OSLO), mainly focussing on creating (open) data standards, implementing them in datasets and developing cool tools!
 
-Today, I am still working there :smiley:!
+In 2024, I decided it was time for a change. Since June 2024 I am part of [movias.eu](https://movias.eu/).
 
 🔭 Currently, my main focus is on Linked Data Event Streams. Linked Data Event Streams are a new, really cool way to publish your datasets, giving users access to the full history and the latest changes of your dataset. More information on this topic can be found here:
 - A [specification](https://w3id.org/ldes/specification) that tells you how to publish your dataset as a LDES

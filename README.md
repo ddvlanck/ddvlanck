@@ -15,7 +15,7 @@ Most of my time I spend developing tools for the LDES ecosystem or publishing a 
 
 - Twitter - [@ddvlanck](https://twitter.com/ddvlanck)
 - LinkedIn - [Dwight Van Lancker](https://www.linkedin.com/in/dwightvanlancker/)
-- Work Email - [dwight.vanlancker@vlaanderen.be](mailto:dwight.vanlancker@vlaanderen.be)
+- Work Email - [dwight.vanlancker@movias.eu](mailto:dwight.vanlancker@movias.eu)
 - Personal Email - [dwight.vanlancker@hotmail.com](mailto:dwight.vanlancker@hotmail.com)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ddvlanck)](https://github.com/ddvlanck)
